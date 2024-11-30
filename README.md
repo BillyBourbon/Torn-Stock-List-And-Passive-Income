@@ -3,10 +3,9 @@
 
 **__About__**
 
-This sheet was made by bilbosaggings[2323763]
-this is a free sheet/script (donations accepted ofc but not required)
-this tool creates two sheets. one for your personal passive income from stocks and one for the torn stock list which shows their prices and the ROIs for each stock with a payout
-this sheet is rather poop so itll be updated to be less stinky at somepoint but in its current state it works and does its job well
+This sheet was made by bilbosaggings[2323763] and is a completely free sheet/script (donations accepted ofc but not required)
+
+This tool creates two sheets. one for your personal passive income from stocks and one for the torn stock list which shows their prices and the ROIs for each stock with a payout. Ill admit this sheet is rather poop so itll be updated to be less stinky at somepoint but in its current state it works and does its job well
 
 
 1.
