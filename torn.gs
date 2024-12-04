@@ -11,7 +11,7 @@ function getTornStocksOutput(tornCall, sheetOptions){
     let marketValue = 0;
     if(type == "active") marketValue = descriptionToValue(description,tornCall.items,sheetOptions)
 
-    let row = [stockName, type, frequency, requirement, description,marketValue, current_price, total_shares, market_cap, investors]
+    let row = [stockName, type, frequency, requirement, description,marketValue, current_price]
     
     let rois = getRoi(current_price, requirement, frequency, marketValue)
     rois.forEach(roi=>row.push(roi))
