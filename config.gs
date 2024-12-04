@@ -9,7 +9,7 @@ const config =
     "sheet" : {
       "sheetName" : "Torn Stock List",
       "headers" : [
-        {"values" : ["Stock Name", "Bonus Block Type", "Bonus Block Frequency","Shares Needed Per Block", "Bonus Block Payout", "Estimated Market Value", "Current Price", "Total Shares", "Market Cap","Total Investors", "Increment 1 ROI", "Increment 2 ROI", "Increment 3 ROI", "Increment 4 ROI" ], "r1c1" : [1,1]}
+        {"values" : ["Stock Name", "Bonus Block Type", "Bonus Block Frequency","Shares Needed Per Block", "Bonus Block Payout", "Estimated Market Value", "Current Price", "Increment 1 ROI", "Increment 2 ROI", "Increment 3 ROI", "Increment 4 ROI" ], "r1c1" : [1,1]}
       ],
       "formatOptions" : {
         "clearSheetEachTime" : true,
